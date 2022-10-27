@@ -6,9 +6,9 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 ## Contents
 
 - [Papers](#papers)
-  - [Learning on Devices](#1.-learning-on-devices)
-  - [Inference on Devices](#2.-inference-on-devices)
-  - [Models for Mobile](#3.-model-for-mobile)
+  - [Learning on Devices](#1-learning-on-devices)
+  - [Inference on Devices](#2-inference-on-devices)
+  - [Models for Mobile](#3-model-for-mobile)
 - [Open Source Projects](#open-source-projects)
 - [Contribute](#Contribute)
 
@@ -37,8 +37,9 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 - [Coedge: Cooperative dnn inference with adaptive workload partitioning over heterogeneous edge devices](https://ieeexplore.ieee.org/abstract/document/9296560/) by Liekang Zeng et al., TON 2020
 - [μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization](https://dl.acm.org/doi/abs/10.1145/3302424.3303950) by Youngsok Kim et al., EuroSys 2019
 - [DeepThings: Distributed Adaptive Deep Learning Inference on Resource-Constrained IoT Edge Clusters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8493499) by zhuoran Zhao et al., TCAD 2018
+- [Modnn: Local distributed mobile computing system for deep neural network](https://ieeexplore.ieee.org/abstract/document/7927211/) by Jiachen Mao et al., DATE 2017
 
-#### b. Inference Latency Prediction
+#### b. Latency Prediction for Inference
 
 - [nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices](https://dl.acm.org/doi/abs/10.1145/3458864.3467882) by Li Lyna Zhang et al., MobiSys 2021
 
@@ -46,7 +47,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 
 ### 3. Model for Mobile
 
-#### a. Lightweight model
+#### a. Lightweight Model
 
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf) by Mingxing Tan et al., ICML 2019
 - [Shufflenet: An extremely efficient convolutional neural network for mobile devices](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html) by Xiangyu Zhang et al., CVPR 2018
@@ -58,6 +59,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 
 - [MNN: A Universal and Efficient Inference Engine](https://github.com/alibaba/MNN) by Alibaba, 2020
 - [TVM: Open deep learning compiler stack for cpu, gpu and specialized accelerators](https://github.com/apache/tvm) by Tianqi Chen et al., 2018
+- [MACE: a deep learning inference framework optimized for mobile heterogeneous computing platforms](https://github.com/XiaoMi/mace) by XiaoMe, 2018
 
 
 ## Contribute
