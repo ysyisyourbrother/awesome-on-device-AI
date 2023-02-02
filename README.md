@@ -19,6 +19,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 #### a. Memory Efficient Learning
 
 - [POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging](https://proceedings.mlr.press/v162/patil22b/patil22b.pdf) by Patil et al., ICML 2022
+- [On-Device Training Under 256KB Memory](https://arxiv.org/pdf/2206.15472.pdf) by Ji Lin, Song Han et al., NIPS 2022
 - [Melon: breaking the memory wall for resource-efficient on-device machine learning](https://xumengwei.github.io/files/MobiSys22-Melo.pdf) by Qipeng Wang et al., MobiSys 2022
 - [Sage: Memory-efficient DNN Training on Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3498361.3539765) by In Gim et al., MobiSys 2022
 
@@ -63,21 +64,18 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 
 ## Open Source Projects
 
-#### 1. DL Framework on Mobile
+### 1. DL Framework on Mobile
 
 - [Tensorflow Lite: Deploy machine learning models on mobile and edge devices](https://www.tensorflow.org/lite) by Google.
 - [TensorflowJS: A WebGL accelerated JavaScript library for training and deploying ML models](https://github.com/tensorflow/tfjs) by Google.
-
-#### 2. Inference Deployment
-
-- [TensorRT: A C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators](https://github.com/NVIDIA/TensorRT) by Nvidia.
-- [MACE: a deep learning inference framework optimized for mobile heterogeneous computing platforms](https://github.com/XiaoMi/mace) by XiaoMi.
 - [MNN: A Universal and Efficient Inference Engine](https://github.com/alibaba/MNN) by Alibaba.
 
-#### 3. Compilation
+### 2. Inference Deployment
 
+- [TensorRT: A C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators](https://github.com/NVIDIA/TensorRT) by Nvidia.
 - [TVM: Open deep learning compiler stack for cpu, gpu and specialized accelerators](https://github.com/apache/tvm) by Tianqi Chen et al.
-
+- [MACE: a deep learning inference framework optimized for mobile heterogeneous computing platforms](https://github.com/XiaoMi/mace) by XiaoMi.
+- [NCNN: a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) by Tencent.
 
 
 
