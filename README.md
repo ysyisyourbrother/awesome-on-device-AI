@@ -49,6 +49,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 - [MobiSys'22] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices. by Fucheng Jia et al. [[paper](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)]
 - [InfoCom'22] Distributed Inference with Deep Learning Models across Heterogeneous Edge Devices. by Chenghao hu et al. [[paper](https://iqua.ece.toronto.edu/papers/chenghao-infocom22.pdf)]
 - [TON'20] Coedge: Cooperative dnn inference with adaptive workload partitioning over heterogeneous edge devices. by Liekang Zeng et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9296560)]
+- [ICCD'20] A distributed in-situ CNN inference system for IoT applications. by Jiangsu Du et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9283504/)]
 - [TPDS'20] Model Parallelism Optimization for Distributed Inference via Decoupled CNN Structure. by Jiangsu Du et al. [[paper](https://ieeexplore.ieee.org/document/9275375/)]
 - [EuroSys'19] μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization. by Youngsok Kim et al. [[paper](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)]
 - [TCAD'18] DeepThings: Distributed Adaptive Deep Learning Inference on Resource-Constrained IoT Edge Clusters. by zhuoran Zhao et al. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8493499)]
