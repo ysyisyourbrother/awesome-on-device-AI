@@ -5,18 +5,19 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 
 ## Contents
 
-- [Papers](#papers)
+- [Papers/Tutorial](#papers/tutorial)
   - [Learning on Devices](#1-learning-on-devices)
   - [Inference on Devices](#2-inference-on-devices)
   - [Models for Mobile](#3-model-for-mobile)
   - [On-device AI Application](#4-On-device-AI-Application)
+  - [Survey/Tutorial](#survey/tutorial)
 - [Open Source Projects](#open-source-projects)
 	- [DL Framework on Mobile](#1-DL-Framework-on-Mobile)
   - [Inference Deployment](#2-Inference-Deployment)
   - [Open Source Auto-Parallelism Framework](#3-Open-Source-Auto-Parallelism-Framework)
 - [Contribute](#Contribute)
 
-## Papers
+## Papers/Tutorial
 
 ### 1. Learning on Devices
 
@@ -44,6 +45,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 
 #### 2.1 Collaborative Inference
 
+- [MobiSys'23] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors. by USTC & Microsoft. [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/stretch_mobisys23-6462ea7a63d9e.pdf)]
 - [MobiSys'22] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices. by Fucheng Jia et al. [[paper](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)]
 - [InfoCom'22] Distributed Inference with Deep Learning Models across Heterogeneous Edge Devices. by Chenghao hu et al. [[paper](https://iqua.ece.toronto.edu/papers/chenghao-infocom22.pdf)]
 - [TON'20] Coedge: Cooperative dnn inference with adaptive workload partitioning over heterogeneous edge devices. by Liekang Zeng et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9296560)]
@@ -55,6 +57,14 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 #### 2.2 Latency Prediction for Inference
 
 - [MobiSys'21] nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices. by Li Lyna Zhang et al. [[paper](https://dl.acm.org/doi/abs/10.1145/3458864.3467882)]
+
+#### 2.3 Multi-DNN Serving
+
+- [MobiSys'22] Band: coordinated multi-DNN inference on heterogeneous mobile processors. by Seoul National University et al. [[paper](https://dl.acm.org/doi/10.1145/3498361.3538948)]
+
+#### 2.4 DNN Arch./Op.-level Optimization
+
+- [MobiSys'23] ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU. by Shanghai Jiao Tong University [[paper](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf)]
 
 ### 3. Models for Mobile
 
@@ -71,6 +81,12 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 
 - [Ubicomp'18] DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern. by Mengwei Xu et al. [[paper](https://dl.acm.org/doi/10.1145/3287075)]
 - [Arxiv 2018] Federated learning for mobile keyboard prediction. by Google [[paper](https://arxiv.org/abs/1811.03604)]
+
+### 5. Survey/Tutorial
+
+#### 5.1 Tutorial
+
+- [CVPR'23 Tutorial] Efficient Neural Networks: From Algorithm Design to Practical Mobile Deployments. by Snap Research [[paper](https://snap-research.github.io/efficient-nn-tutorial/)]
 
 ## Open Source Projects
 
