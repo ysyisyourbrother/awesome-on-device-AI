@@ -10,7 +10,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
   - [Inference on Devices](#2-inference-on-devices)
   - [Models for Mobile](#3-model-for-mobile)
   - [On-device AI Application](#4-On-device-AI-Application)
-  - [Survey/Tutorial](#survey/tutorial)
+  - [Survey/Tutorial](#5-survey/tutorial)
 - [Open Source Projects](#open-source-projects)
 	- [DL Framework on Mobile](#1-DL-Framework-on-Mobile)
   - [Inference Deployment](#2-Inference-Deployment)
