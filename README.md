@@ -10,7 +10,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
   - [Inference on Devices](#2-inference-on-devices)
   - [Models for Mobile](#3-model-for-mobile)
   - [On-device AI Application](#4-On-device-AI-Application)
-  - [Survey/Tutorial](#5-survey/tutorial)
+  - [Survey and Tutorial](#5-survey-and-tutorial)
 - [Open Source Projects](#open-source-projects)
 	- [DL Framework on Mobile](#1-DL-Framework-on-Mobile)
   - [Inference Deployment](#2-Inference-Deployment)
@@ -49,6 +49,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 - [MobiSys'22] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices. by Fucheng Jia et al. [[paper](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)]
 - [InfoCom'22] Distributed Inference with Deep Learning Models across Heterogeneous Edge Devices. by Chenghao hu et al. [[paper](https://iqua.ece.toronto.edu/papers/chenghao-infocom22.pdf)]
 - [TON'20] Coedge: Cooperative dnn inference with adaptive workload partitioning over heterogeneous edge devices. by Liekang Zeng et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9296560)]
+- [ICCD'20] A distributed in-situ CNN inference system for IoT applications. by Jiangsu Du et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9283504/)]
 - [TPDS'20] Model Parallelism Optimization for Distributed Inference via Decoupled CNN Structure. by Jiangsu Du et al. [[paper](https://ieeexplore.ieee.org/document/9275375/)]
 - [EuroSys'19] μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization. by Youngsok Kim et al. [[paper](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)]
 - [TCAD'18] DeepThings: Distributed Adaptive Deep Learning Inference on Resource-Constrained IoT Edge Clusters. by zhuoran Zhao et al. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8493499)]
@@ -82,7 +83,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 - [Ubicomp'18] DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern. by Mengwei Xu et al. [[paper](https://dl.acm.org/doi/10.1145/3287075)]
 - [Arxiv 2018] Federated learning for mobile keyboard prediction. by Google [[paper](https://arxiv.org/abs/1811.03604)]
 
-### 5. Survey/Tutorial
+### 5. Survey and Tutorial
 
 #### 5.1 Tutorial
 
