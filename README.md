@@ -96,6 +96,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 - Tensorflow Lite: Deploy machine learning models on mobile and edge devices. by Google. [[code](https://www.tensorflow.org/lite)]
 - TensorflowJS: A WebGL accelerated JavaScript library for training and deploying ML models. by Google. [[code](https://github.com/tensorflow/tfjs)]
 - MNN: A Universal and Efficient Inference Engine. by Alibaba. [[code](https://github.com/alibaba/MNN)]
+- FluidAudio: Local audio AI SDK for Apple platforms with ASR, speaker diarization, VAD, and TTS. Optimized for Apple Neural Engine. by FluidInference. [[code](https://github.com/FluidInference/FluidAudio)]
 
 ### 2. Inference Deployment
 
