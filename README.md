@@ -44,7 +44,7 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 ### 2. Inference on Devices
 
 #### 2.1 Collaborative Inference
-
+- [ICCAD'25] Mitigating Resource Contention for Responsive On-device Machine Learning Inferences. by Minsung Kim et al. [[paper](https://ieeexplore.ieee.org/abstract/document/11240707)]
 - [MobiSys'23] NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors. by USTC & Microsoft. [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/stretch_mobisys23-6462ea7a63d9e.pdf)]
 - [MobiSys'22] CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices. by Fucheng Jia et al. [[paper](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)]
 - [InfoCom'22] Distributed Inference with Deep Learning Models across Heterogeneous Edge Devices. by Chenghao hu et al. [[paper](https://iqua.ece.toronto.edu/papers/chenghao-infocom22.pdf)]
