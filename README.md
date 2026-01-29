@@ -39,9 +39,6 @@ A curated list of awesome projects and papers for AI on **Mobile/IoT/Edge** devi
 - [SEC'21] EDDL: A Distributed Deep Learning System for Resource-limited Edge Computing Environment. by Pengzhan Hao et al. [[paper](https://buzhangy.github.io/publication/eddl-sec21.pdf)]
 - [MobiSys'21 Workshop] Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance. by Dongqi Chai, Mengwei Xu et al. [[paper](https://dl.acm.org/doi/10.1145/3469116.3470009)]
 
-
-- [MobiSys'21 Workshop] Towards Ubiquitous Learning: A First Measurement of On-Device Training Performance. by Dongqi Chai, Mengwei Xu et al. [[paper](https://dl.acm.org/doi/10.1145/3469116.3470009)]
-
 ### 2. Inference on Devices
 
 #### 2.1 Collaborative Inference
