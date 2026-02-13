@@ -104,8 +104,6 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 
 ### 4. Survey and Tutorial
 
-#### 4.1 Tutorial
-
 - [Arxiv'24] Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security. by Yuanchun Li.
 - [CSUR'24] A Survey of Resource-efficient LLM and Multimodal Foundation Models. by Mengwei Xu et al. [[paper](https://xumengwei.github.io/files/CSUR24-efficientllm.pdf)]
 - [CVPR'23 Tutorial] Efficient Neural Networks: From Algorithm Design to Practical Mobile Deployments. by Snap Research [[paper](https://snap-research.github.io/efficient-nn-tutorial/)]
