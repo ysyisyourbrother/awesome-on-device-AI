@@ -128,6 +128,10 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 ### 3. Mobile LLM Apps
 - Airgap: Open-source React Native framework for on-device, offline-first customer support chatbots. Runs Gemma 4 E2B locally via llama.rn (the React Native binding of llama.cpp). Seven industry templates (telco, retail, healthcare, banking, education, insurance, airlines) ship in the repo. by Xavier Puspus. [[code](https://github.com/xmpuspus/airgap)]
 
+## APIs & Services
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Useful for on-device AI agents that interact autonomously with other agents. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Contribute
 
 All contributions to this repository are welcome. Open an [issue](https://github.com/ysyisyourbrother/awesome-mlsys-mobile/issues) or send a [pull request](https://github.com/ysyisyourbrother/awesome-mlsys-mobile/pulls).
