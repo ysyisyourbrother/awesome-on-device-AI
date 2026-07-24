@@ -121,6 +121,7 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 - TVM: Open deep learning compiler stack for cpu, gpu and specialized accelerators. by Tianqi Chen et al. [[code](https://github.com/apache/tvm)]
 - MACE: a deep learning inference framework optimized for mobile heterogeneous computing platforms. by XiaoMi. [[code](https://github.com/XiaoMi/mace)]
 - NCNN: a high-performance neural network inference framework optimized for the mobile platform. by Tencent. [[code](https://github.com/Tencent/ncnn)]
+- Xybrid: Open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games. [[code](https://github.com/xybrid-ai/xybrid)]
 
 ### 2. Audio
 - FluidAudio: Local audio AI SDK for Apple platforms with ASR, speaker diarization, VAD, and TTS. Optimized for Apple Neural Engine. by FluidInference. [[code](https://github.com/FluidInference/FluidAudio)]
