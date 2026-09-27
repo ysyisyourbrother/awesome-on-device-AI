@@ -127,6 +127,7 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 
 ### 3. Mobile LLM Apps
 - Airgap: Open-source React Native framework for on-device, offline-first customer support chatbots. Runs Gemma 4 E2B locally via llama.rn (the React Native binding of llama.cpp). Seven industry templates (telco, retail, healthcare, banking, education, insurance, airlines) ship in the repo. by Xavier Puspus. [[code](https://github.com/xmpuspus/airgap)]
+- jevos: Open-source 1B-parameter yes/no decision model that runs fully offline on a laptop CPU (MiniCPM pruned to 17 layers, GGUF q4_k_m, 619 MB, served via llama.cpp). Send text plus a yes/no question over HTTP and get back P(yes) in one forward pass, no text generation; Jev-compatible API. by Federico Elia & Loris Salsi. [[code](https://github.com/feder-cr/jev)]
 
 ## Contribute
 
