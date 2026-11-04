@@ -49,6 +49,7 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 ### 2. Inference on Devices
 
 #### 2.1 Collaborative Inference
+- [Arxiv'26] Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution. by Pengcheng Huang et al. [[paper](https://arxiv.org/abs/2610.17816)] [[code](https://github.com/OpenBMB/EC2-Bench)]
 - [TMC'25] Resource-Efficient Collaborative Edge Transformer Inference with Hybrid Model Parallelism. by Shengyuan Ye et al. [[paper](https://ieeexplore.ieee.org/abstract/document/11017462?casa_token=hFum-boeJ00AAAAA:u8q5IdqmZSizapYu4-zRQ7dDUdAUkzujHmSqnaVhsE_1Q2r74RWoa1WOLe0LLP5wi95ZXLKdpA)]
 - [INFOCOM'25] Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices. by Shengyuan Ye et al. [[paper](https://arxiv.org/pdf/2504.08242?)]
 - [ICCAD'25] Mitigating Resource Contention for Responsive On-device Machine Learning Inferences. by Minsung Kim et al. [[paper](https://ieeexplore.ieee.org/abstract/document/11240707)]
