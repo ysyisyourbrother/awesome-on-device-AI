@@ -5,6 +5,7 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 
 ## Contents
 
+- [DailyVox](https://getdailyvox.com) - iOS voice diary with on-device sentiment analysis, entity recognition, and personality modeling using Apple's NaturalLanguage framework and Neural Engine. ([App Store](https://apps.apple.com/app/id6760454642))
 - [Papers/Tutorial](#papers/tutorial)
   - [Training on Devices](#1-Training-on-devices)
   - [Inference on Devices](#2-inference-on-devices)
