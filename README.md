@@ -122,6 +122,7 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 - TVM: Open deep learning compiler stack for cpu, gpu and specialized accelerators. by Tianqi Chen et al. [[code](https://github.com/apache/tvm)]
 - MACE: a deep learning inference framework optimized for mobile heterogeneous computing platforms. by XiaoMi. [[code](https://github.com/XiaoMi/mace)]
 - NCNN: a high-performance neural network inference framework optimized for the mobile platform. by Tencent. [[code](https://github.com/Tencent/ncnn)]
+- Kapitsa: A native C++ LLM inference engine for Apple silicon Macs, with hand-written Metal kernels and the Neural Engine, and OpenAI- and Anthropic-compatible APIs. by Nace AI. [[code](https://github.com/nace-ai/kapitsa)]
 
 ### 2. Audio
 - FluidAudio: Local audio AI SDK for Apple platforms with ASR, speaker diarization, VAD, and TTS. Optimized for Apple Neural Engine. by FluidInference. [[code](https://github.com/FluidInference/FluidAudio)]
