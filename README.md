@@ -125,6 +125,7 @@ A curated list of awesome projects and papers for AI on ___Mobile/IoT/Edge___ de
 
 ### 2. Audio
 - FluidAudio: Local audio AI SDK for Apple platforms with ASR, speaker diarization, VAD, and TTS. Optimized for Apple Neural Engine. by FluidInference. [[code](https://github.com/FluidInference/FluidAudio)]
+- LinnetTTS: On-device streaming text-to-speech with voice cloning. 41M params, 83 MB fp16 weights, 80 ms streaming chunks, 75% RTF on Raspberry Pi Zero 2 W (4 threads). Rust runtime with Android/iOS/Linux/Python bindings. by VoxRT. [[code](https://github.com/VoxRT/LinnetTTS)]
 
 ### 3. Mobile LLM Apps
 - Airgap: Open-source React Native framework for on-device, offline-first customer support chatbots. Runs Gemma 4 E2B locally via llama.rn (the React Native binding of llama.cpp). Seven industry templates (telco, retail, healthcare, banking, education, insurance, airlines) ship in the repo. by Xavier Puspus. [[code](https://github.com/xmpuspus/airgap)]
